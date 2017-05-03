@@ -20,6 +20,8 @@
     "@angular/platform-browser": "^4.0.0",
     "@angular/platform-browser-dynamic": "^4.0.0",
     "@angular/router": "^4.0.0",
+    "@ngrx/core": "github:ngrx/core",
+    "@ngrx/store": "git://github.com/ngrx/store.git#108dc0ef8f109e15e2f07fb96cba190ac7eebdb5",
     "core-js": "^2.4.1",
     "rxjs": "^5.1.0",
     "zone.js": "^0.8.4"
