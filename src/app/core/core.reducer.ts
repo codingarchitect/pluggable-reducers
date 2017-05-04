@@ -1,4 +1,4 @@
-import { Store, Action } from '@ngrx/store';
+import { Store, Action } from '@ngrx/store'
 
 export interface State {
   coreModuleProperty: string
